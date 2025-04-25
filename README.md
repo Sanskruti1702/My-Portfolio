@@ -13,4 +13,5 @@ Real-world business problems solved using SQL
 
 
 Python Case studies
--> Gaming company case study
+
+-> [Gaming company case study](https://github.com/Sanskruti1702/Gaming-Company-Case-study/tree/main)
