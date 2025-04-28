@@ -15,3 +15,5 @@ Real-world business problems solved using SQL
 Python Case studies
 
 -> [Gaming company case study](https://github.com/Sanskruti1702/Gaming-Company-Case-study/tree/main)
+
+-> [Web Scraping scripts](https://github.com/Sanskruti1702/Python-web-scraping-scripts)
