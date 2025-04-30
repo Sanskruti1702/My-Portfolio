@@ -16,12 +16,12 @@ Big fan of structured thinking, good design, and coffee-fueled debugging.
     - [Case studies for EDA](https://github.com/Sanskruti1702/Python-Case-studies)
     - [Web Scraping scripts](https://github.com/Sanskruti1702/Python-web-scraping-scripts)
       
-- Certifications
-- [Contact](https://github.com/Sanskruti1702/My-Portfolio/edit/main/README.md#contact)
+- [Certifications](https://github.com/Sanskruti1702/My-Portfolio/blob/main/README.md#certifications)
+- [Contact](https://github.com/Sanskruti1702/My-Portfolio/blob/main/README.md#contact)
 
 # Certifications
-- [Google Data Analysis Professional certificate](https://www.coursera.org/account/accomplishments/specialization/2UGTS6M3AWBK) (Coursera-Google)
-- [Data Analysis with R programming](https://www.coursera.org/account/accomplishments/specialization/2UGTS6M3AWBK) (Coursera-Google}
+- [Google Data Analysis Professional certificate](https://www.coursera.org/account/accomplishments/specialization/2UGTS6M3AWBK) (Jun2023)(Coursera-Google)
+- [Data Analysis with R programming](https://www.coursera.org/account/accomplishments/specialization/2UGTS6M3AWBK) (Jul 2023)(Coursera-Google}
 - [Advance SQL](https://www.hackerrank.com/certificates/3d22ec56387e) (Jan 2025)(HackerRank)
   
 # Contact
