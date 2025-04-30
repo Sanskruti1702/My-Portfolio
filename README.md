@@ -19,7 +19,11 @@ Big fan of structured thinking, good design, and coffee-fueled debugging.
 - Certifications
 - [Contact](https://github.com/Sanskruti1702/My-Portfolio/edit/main/README.md#contact)
 
-
+# Certifications
+- [Google Data Analysis Professional certificate](https://www.coursera.org/account/accomplishments/specialization/2UGTS6M3AWBK) (Coursera-Google)
+- [Data Analysis with R programming](https://www.coursera.org/account/accomplishments/specialization/2UGTS6M3AWBK) (Coursera-Google}
+- [Advance SQL](https://www.hackerrank.com/certificates/3d22ec56387e) (Jan 2025)(HackerRank)
+  
 # Contact
 - Linkedin- [@SanskrutiKhandekar](https://www.linkedin.com/in/sanskruti-khandekar-533074213/)
 - Email- sanskrutikhandekar17@gmail.com
