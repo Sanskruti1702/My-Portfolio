@@ -20,11 +20,15 @@ This is a repository to showcase skills, share projects and track my progress in
   - Excel
     - Advanced Excel
     - Excel Reports and dashboards
+
+  - Power bi
+  - Tableu
+  - Google Data Studio
       
 - [Certifications](https://github.com/Sanskruti1702/My-Portfolio/blob/main/README.md#certifications)
 - [Contact](https://github.com/Sanskruti1702/My-Portfolio/blob/main/README.md#contact)
 
-# Projects
+# 🗃️ Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 ## 8 Week SQL Challenge by Danny Ma
 Aim- To enhance real-world SQL skills by solving case-based business problems
@@ -33,18 +37,31 @@ Description- The 8 Week SQL Challenge by Danny Ma is a collection of 8 business-
 
 [Details and code](https://github.com/Sanskruti1702/8-Weeks-SQL-Challenges-By-Danny-Ma)
 
-Skills- Data Cleaning & Preparation, JOINs, CTEs, subqueries, Filtering and transforming data using WHERE, CASE, COALESCE, Date & time manipulation with SQL functions, Applying window functions (e.g., RANK(), ROW_NUMBER(), LAG())
+🧠Skills- Data Cleaning & Preparation, JOINs, CTEs, subqueries, Filtering and transforming data using WHERE, CASE, COALESCE, Date & time manipulation with SQL functions, Applying window functions (e.g., RANK(), ROW_NUMBER(), LAG())
 
-Technology - SQL
+🛠Technology - SQL
 
 Conclusion- Built confidence in using SQL for exploratory data analysis, performance tracking, customer behavior insights, and operational decision-making.
 
+## Case Studies for EDA
+Aim
 
-# Certifications
+Description
+
+[Details and code]
+
+🧠Skills
+
+Technology
+
+Conclusion
+
+
+# 🎓 Certifications
 - [Google Data Analysis Professional certificate](https://www.coursera.org/account/accomplishments/specialization/2UGTS6M3AWBK) (Jun2023)(Coursera-Google)
 - [Data Analysis with R programming](https://www.coursera.org/account/accomplishments/specialization/2UGTS6M3AWBK) (Jul 2023)(Coursera-Google}
 - [Advance SQL](https://www.hackerrank.com/certificates/3d22ec56387e) (Jan 2025)(HackerRank)
   
-# Contact
+# 📧 Contact
 - Linkedin- [@SanskrutiKhandekar](https://www.linkedin.com/in/sanskruti-khandekar-533074213/)
 - Email- sanskrutikhandekar17@gmail.com
