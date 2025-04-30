@@ -17,7 +17,7 @@ Big fan of structured thinking, good design, and coffee-fueled debugging.
     - [Web Scraping scripts](https://github.com/Sanskruti1702/Python-web-scraping-scripts)
       
 - Certifications
-- [Contact](https://github.com/Sanskruti1702/My-Portfolio/edit/main/README.md#Contact)
+- [Contact](https://github.com/Sanskruti1702/My-Portfolio/edit/main/README.md#contact)
 
 
 # Contact
