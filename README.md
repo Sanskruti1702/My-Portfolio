@@ -6,12 +6,20 @@ Whether it’s cleaning messy datasets, visualizing trends, or optimizing data p
 Big fan of structured thinking, good design, and coffee-fueled debugging.
 ### This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
-## 📚 Contents
+# 📚 Contents
+- Projects
+  - SQL
+    - [8 Week SQL Challenge by Danny Ma](https://github.com/Sanskruti1702/8-Weeks-SQL-Challenges-By-Danny-Ma) 
 
-SQL
-- [8 Week SQL Challenge by Danny Ma](https://github.com/Sanskruti1702/8-Weeks-SQL-Challenges-By-Danny-Ma) 
+
+  - Python
+    - [Case studies for EDA](https://github.com/Sanskruti1702/Python-Case-studies)
+    - [Web Scraping scripts](https://github.com/Sanskruti1702/Python-web-scraping-scripts)
+      
+- Certifications
+- [Contact](https://github.com/Sanskruti1702/My-Portfolio/edit/main/README.md#Contact)
 
 
-Python
-- [Case studies for EDA](https://github.com/Sanskruti1702/Python-Case-studies)
-- [Web Scraping scripts](https://github.com/Sanskruti1702/Python-web-scraping-scripts)
+# Contact
+- Linkedin- [@SanskrutiKhandekar](https://www.linkedin.com/in/sanskruti-khandekar-533074213/)
+- Email- sanskrutikhandekar17@gmail.com
