@@ -43,12 +43,12 @@ Description- The 8 Week SQL Challenge by Danny Ma is a collection of 8 business-
 
 Conclusion- Built confidence in using SQL for exploratory data analysis, performance tracking, customer behavior insights, and operational decision-making.
 
-## Case Studies for EDA
+## Case Studies for EDA (Python)
 Aim- To explore, clean, and analyze real-world datasets using Python in order to uncover patterns, trends, and actionable insights that can inform business or operational decisions
 
 Description- These case studies involve performing Exploratory Data Analysis (EDA) on various structured datasets from domains such as gaming, retail, finance, and marketing. Each project focuses on understanding the data, handling inconsistencies, generating summary statistics, visualizing key trends, and drawing data-driven conclusions. Some also include business logic implementation, feature engineering, and metric design.
 
-[Details and code]
+[Details and code](https://github.com/Sanskruti1702/Python-Case-studies)
 
 🧠Skills- Data Cleaning & Preprocessing, Exploratory Analysis & Summary Statistics, Time Series Breakdown & Trend Detection, Business Understanding & Insight Development, Data Visualization with Python
 
