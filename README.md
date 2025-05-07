@@ -23,7 +23,8 @@ This is a repository to showcase skills, share projects and track my progress in
 
   - Power bi
   - Tableu
-  - Google Data Studio
+  - Looker Studio
+    - [E-commerce Sales Dasboard](https://github.com/Sanskruti1702/Data-Visualization-Projects/blob/main/README.md#e-commerce-sales-dashboard)
       
 - [Certifications](https://github.com/Sanskruti1702/My-Portfolio/blob/main/README.md#certifications)
 - [Contact](https://github.com/Sanskruti1702/My-Portfolio/blob/main/README.md#contact)
