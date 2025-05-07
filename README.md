@@ -23,7 +23,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
   - Power bi
   - Tableu
-  - [Looker Studio](https://github.com/Sanskruti1702/My-Portfolio/edit/main/README.md#looker-studio-projects)
+  - [Looker Studio](https://github.com/Sanskruti1702/My-Portfolio/blob/main/README.md#looker-studio-projects)
       
 - [Certifications](https://github.com/Sanskruti1702/My-Portfolio/blob/main/README.md#certifications)
 - [Contact](https://github.com/Sanskruti1702/My-Portfolio/blob/main/README.md#contact)
