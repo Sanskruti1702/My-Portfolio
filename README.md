@@ -57,7 +57,7 @@ Technology- pandas, numpy, matplotlib, seaborn, excel/csv
 Conclusion- These EDA case studies demonstrate the ability to transform raw data into meaningful insights through structured analysis and storytelling. By combining analytical thinking with Python tooling, each project provides clear takeaways that can support better decisions in product, marketing, or operations.
 
 ## Power Bi Projects
-[Helathcare Data Dashboard](https://github.com/Sanskruti1702/Data-Visualization-Projects/tree/main/HealthStat-DB#-healthcare-data-dashboard)
+[Helathcare Data Dashboard](https://github.com/Sanskruti1702/Data-Visualization-Projects/blob/main/README.md#-healthcare-data-dashboard)
 
 
 ## Looker Studio Projects
