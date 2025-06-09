@@ -60,7 +60,7 @@ Conclusion- These EDA case studies demonstrate the ability to transform raw data
 [Helathcare Data Dashboard](https://github.com/Sanskruti1702/Data-Visualization-Projects/blob/main/README.md#-healthcare-data-dashboard)
 
 ## Tableau Projects
-[HR Analytics Dashboard](https://github.com/Sanskruti1702/Data-Visualization-Projects/blob/main/HR%20Dashboard%20ss.png)
+[HR Analytics Dashboard](https://github.com/Sanskruti1702/Data-Visualization-Projects/tree/main?tab=readme-ov-file#-hr-analytics-dashboard))
 
 ## Looker Studio Projects
 [E-commerce Sales Dasboard](https://github.com/Sanskruti1702/Data-Visualization-Projects/blob/main/README.md#e-commerce-sales-dashboard)
