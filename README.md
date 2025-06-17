@@ -58,15 +58,15 @@ Conclusion- These EDA case studies demonstrate the ability to transform raw data
 
 ## Power Bi Projects
 [Helathcare Data Dashboard](https://github.com/Sanskruti1702/Data-Visualization-Projects/blob/main/README.md#-healthcare-data-dashboard)
-Summary - This Power BI dashboard provides a comprehensive analysis of hospital performance by tracking key metrics such as average Length of Stay (LOS), treatment costs, and departmental efficiency. It helps healthcare stakeholders benchmark performance, identify inefficiencies, and make informed, data-driven decisions to improve patient care and optimize operational costs.
+ This Power BI dashboard provides a comprehensive analysis of hospital performance by tracking key metrics such as average Length of Stay (LOS), treatment costs, and departmental efficiency. It helps healthcare stakeholders benchmark performance, identify inefficiencies, and make informed, data-driven decisions to improve patient care and optimize operational costs.
 
 ## Tableau Projects
 [HR Analytics Dashboard](https://github.com/Sanskruti1702/Data-Visualization-Projects/blob/main/README.md#-hr-analytics-dashboard)
-Summary - This Tableau dashboard offers a detailed view of employee attrition and workforce demographics, helping HR teams identify high-risk segments and key drivers of turnover. By analyzing factors like department, age, gender, and job satisfaction, it supports strategic, data-driven decisions to enhance retention, engagement, and overall workforce stability.
+ This Tableau dashboard offers a detailed view of employee attrition and workforce demographics, helping HR teams identify high-risk segments and key drivers of turnover. By analyzing factors like department, age, gender, and job satisfaction, it supports strategic, data-driven decisions to enhance retention, engagement, and overall workforce stability.
 
 ## Looker Studio Projects
 [E-commerce Sales Dasboard](https://github.com/Sanskruti1702/Data-Visualization-Projects/blob/main/README.md#e-commerce-sales-dashboard)
-Summary - Built using Looker Studio, this dashboard analyzes sales data to uncover trends in customer behavior, product performance, and revenue distribution. It tracks key metrics like total sales, top categories, and preferred payment methods, providing actionable insights to optimize marketing strategies, pricing, and customer engagement across the eCommerce platform.
+ Built using Looker Studio, this dashboard analyzes sales data to uncover trends in customer behavior, product performance, and revenue distribution. It tracks key metrics like total sales, top categories, and preferred payment methods, providing actionable insights to optimize marketing strategies, pricing, and customer engagement across the eCommerce platform.
 
 
 # 🎓 Certifications
