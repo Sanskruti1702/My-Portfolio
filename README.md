@@ -56,6 +56,24 @@ Technology- pandas, numpy, matplotlib, seaborn, excel/csv
 
 Conclusion- These EDA case studies demonstrate the ability to transform raw data into meaningful insights through structured analysis and storytelling. By combining analytical thinking with Python tooling, each project provides clear takeaways that can support better decisions in product, marketing, or operations.
 
+## Web Scraping Scripts 
+Aim- To build automated web scraping tools using Python to collect structured, high-value data from dynamic websites for business insights and product development during my tenure as a Data Analyst.
+
+Description- These projects involved designing and implementing custom Python-based web scrapers tailored to specific client needs.
+- Canada Weather Data Scraper:
+Developed using Selenium, this scraper extracted weather data across various Canadian regions. The data included temperature, precipitation, humidity, and wind speed, which was then used by an e-commerce client to analyze how regional weather patterns impacted the sales of agricultural products like pulses, cereals, and millets.
+
+- iGaming Market Performance Scraper:
+Built a scraping solution to collect game performance metrics from multiple online iGaming operator websites. The scraper handled varied layouts and anti-bot mechanisms to gather competitor data such as popularity scores, game rankings, and update frequencies. The clean datasets supported the launch of a game benchmarking platform used for market research and competitive analysis.
+
+[Details and code](https://github.com/Sanskruti1702/Python-web-scraping-scripts)
+
+🧠Skills- Web scraping with Python, Dynamic content handling with Selenium, HTML parsing with BeautifulSoup, Data cleaning and structuring, Anti-bot strategy handling, Domain-specific data extraction
+
+Technology- Python, Selenium, BeautifulSoup, Requests, Pandas, ChromeDriver, CSV, SQLite
+
+Conclusion- These web scraping tools automated critical data collection processes for clients across two domains—eCommerce and iGaming. The insights derived helped improve sales forecasting, market analysis, and product development efficiency, replacing time-consuming manual processes with reliable, scalable automation.
+
 ## Power Bi Projects
 [Helathcare Data Dashboard](https://github.com/Sanskruti1702/Data-Visualization-Projects/blob/main/README.md#-healthcare-data-dashboard)
  This Power BI dashboard provides a comprehensive analysis of hospital performance by tracking key metrics such as average Length of Stay (LOS), treatment costs, and departmental efficiency. It helps healthcare stakeholders benchmark performance, identify inefficiencies, and make informed, data-driven decisions to improve patient care and optimize operational costs.
