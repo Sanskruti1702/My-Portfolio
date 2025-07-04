@@ -8,22 +8,22 @@ Big fan of structured thinking, good design, and coffee-fueled debugging.
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 # 📚 Contents
-- [Projects](https://github.com/Sanskruti1702/My-Portfolio/blob/main/README.md#projects)
+- [Projects](https://github.com/Sanskruti1702/My-Portfolio/tree/main?tab=readme-ov-file#%EF%B8%8F-projects)
   - SQL
-    - [8 Week SQL Challenge by Danny Ma](https://github.com/Sanskruti1702/8-Weeks-SQL-Challenges-By-Danny-Ma) 
+    - [8 Week SQL Challenge by Danny Ma](https://github.com/Sanskruti1702/My-Portfolio/tree/main?tab=readme-ov-file#8-week-sql-challenge-by-danny-ma) 
 
 
   - Python
-    - [Case studies for EDA](https://github.com/Sanskruti1702/Python-Case-studies)
+    - [Case studies for EDA](https://github.com/Sanskruti1702/My-Portfolio/tree/main?tab=readme-ov-file#case-studies-for-eda-python)
     - [Web Scraping scripts](https://github.com/Sanskruti1702/Python-web-scraping-scripts)
    
   - Excel
     - Advanced Excel
     - Excel Reports and dashboards
 
-  - [Power bi](https://github.com/Sanskruti1702/My-Portfolio/blob/main/README.md#power-bi-projects)
-  - [Tableau](https://github.com/Sanskruti1702/My-Portfolio/blob/main/README.md#tableau-projects)
-  - [Looker Studio](https://github.com/Sanskruti1702/My-Portfolio/blob/main/README.md#looker-studio-projects)
+  - [Power bi](https://github.com/Sanskruti1702/My-Portfolio/tree/main?tab=readme-ov-file#power-bi-projects)
+  - [Tableau](hhttps://github.com/Sanskruti1702/My-Portfolio/tree/main?tab=readme-ov-file#tableau-projects)
+  - [Looker Studio](https://github.com/Sanskruti1702/My-Portfolio/tree/main?tab=readme-ov-file#looker-studio-projects)
       
 - [Certifications](https://github.com/Sanskruti1702/My-Portfolio?tab=readme-ov-file#-certifications)
 - [Contact](https://github.com/Sanskruti1702/My-Portfolio?tab=readme-ov-file#-contact)
