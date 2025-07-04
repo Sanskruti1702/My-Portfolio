@@ -26,7 +26,7 @@ This is a repository to showcase skills, share projects and track my progress in
   - [Looker Studio](https://github.com/Sanskruti1702/My-Portfolio/blob/main/README.md#looker-studio-projects)
       
 - [Certifications](https://github.com/Sanskruti1702/My-Portfolio?tab=readme-ov-file#-certifications)
-- [Contact](https://github.com/Sanskruti1702/My-Portfolio/blob/main/README.md#contact)
+- [Contact](https://github.com/Sanskruti1702/My-Portfolio?tab=readme-ov-file#-contact)
 
 # 🗃️ Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
