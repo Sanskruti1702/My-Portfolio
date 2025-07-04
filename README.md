@@ -15,7 +15,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
   - Python
     - [Case studies for EDA](https://github.com/Sanskruti1702/My-Portfolio/tree/main?tab=readme-ov-file#case-studies-for-eda-python)
-    - [Web Scraping scripts](https://github.com/Sanskruti1702/Python-web-scraping-scripts)
+    - [Web Scraping scripts](https://github.com/Sanskruti1702/My-Portfolio?tab=readme-ov-file#web-scraping-scripts)
    
   - Excel
     - Advanced Excel
