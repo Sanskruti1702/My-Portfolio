@@ -22,7 +22,7 @@ This is a repository to showcase skills, share projects and track my progress in
     - Excel Reports and dashboards
 
   - [Power bi](https://github.com/Sanskruti1702/My-Portfolio/tree/main?tab=readme-ov-file#power-bi-projects)
-  - [Tableau](hhttps://github.com/Sanskruti1702/My-Portfolio/tree/main?tab=readme-ov-file#tableau-projects)
+  - [Tableau](https://github.com/Sanskruti1702/My-Portfolio?tab=readme-ov-file#tableau-projects)
   - [Looker Studio](https://github.com/Sanskruti1702/My-Portfolio/tree/main?tab=readme-ov-file#looker-studio-projects)
       
 - [Certifications](https://github.com/Sanskruti1702/My-Portfolio?tab=readme-ov-file#-certifications)
