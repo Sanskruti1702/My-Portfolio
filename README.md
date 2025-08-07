@@ -75,7 +75,7 @@ Technology- Python, Selenium, BeautifulSoup, Requests, Pandas, ChromeDriver, CSV
 Conclusion- These web scraping tools automated critical data collection processes for clients across two domains—eCommerce and iGaming. The insights derived helped improve sales forecasting, market analysis, and product development efficiency, replacing time-consuming manual processes with reliable, scalable automation.
 
 ## Power Bi Projects
-[Helathcare Data Dashboard](https://github.com/Sanskruti1702/Data-Visualization-Projects/blob/main/README.md#-healthcare-data-dashboard)
+[Healthcare Data Dashboard](https://github.com/Sanskruti1702/Data-Visualization-Projects/blob/main/README.md#-healthcare-data-dashboard)
  This Power BI dashboard provides a comprehensive analysis of hospital performance by tracking key metrics such as average Length of Stay (LOS), treatment costs, and departmental efficiency. It helps healthcare stakeholders benchmark performance, identify inefficiencies, and make informed, data-driven decisions to improve patient care and optimize operational costs.
 
 ## Tableau Projects
